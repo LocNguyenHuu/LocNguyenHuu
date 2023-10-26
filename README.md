@@ -5,15 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=locnguyenhuu" alt="locnguyenhuu" /></a> </p>
 
-- 💬 Ask me about **iOS, Data Engineering, Software Engineering, Software Architecture, Cloud Solution, Design Pattern**
+- 💬 Ask me about **Enterprise Architecture, Software Architecture, Cloud Solution, Design Pattern, Database, iOS, MacOS, Data Engineering, Software Engineering**
 
 - 📫 How to reach me **locnguyen3051994@gmail.com**
+
+- 📖 My Blog: [https://bystephenx.com](https://bystephenx.com)
+
+- ☯️ My best product: HelperX - [https://helperx.io](https://helperx.io)
 
 - ⚡ Fun fact **Now or never**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/locnhse61312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="locnhse61312" height="30" width="40" /></a>
+<a href="https://twitter.com/_StephenX_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="locnhse61312" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/stephennguyen305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephennguyen305" height="30" width="40" /></a>
 <a href="https://medium.com/@locnguyenhuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@locnguyenhuu" height="30" width="40" /></a>
 </p>
