@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Enterprise Architecture, Software Architecture, Cloud Solution, Design Pattern, Database, iOS, MacOS, Data Engineering, Software Engineering**
 
-- 📫 How to reach me **locnguyen3051994@gmail.com**
+- 📫 How to reach me **bystephenx@gmail.com**
 
 - 📖 My Blog: [https://bystephenx.com](https://bystephenx.com)
 
