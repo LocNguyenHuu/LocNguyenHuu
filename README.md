@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=locnguyenhuu" alt="locnguyenhuu" /></a> </p>
 
-- 💬 Ask me about **Enterprise Architecture, Software Architecture, Cloud Solution, Data Governance, Data Engineering & Data Science (AI, ML, DL, RL, XAI, XRL, GNNs), Software Engineering**
+- 💬 Ask me about **Enterprise Architecture, Software Engineering & Architecture, Cloud Solution, Data Governance, Data Mesh, Data Engineering & Data Science (AI, ML, DL, RL, XAI, XRL, GNNs)**
 
 - 📫 How to reach me **bystephenx@gmail.com**
 
